@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #333 !important;
+}
+.navbar .navbar-brand, .navbar .navbar-link {
+    color: #fff !important;
+}
+
+.carousel {
+
+width: 80%;
+max-width: 1000px;
+margin: 10px auto;
+
+}
+.carousel-item {
+    
+}
+
+/* Cards */
+
+.cartões {
+    width: 90%;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
